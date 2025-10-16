@@ -14,14 +14,14 @@ Dự án được thiết kế theo mô hình **Microservice Architecture**, chi
 | Thành phần | Công nghệ |
 |-------------|------------|
 | **Frontend** | React, Next.js, Tailwind CSS |
-| **Backend services** | Node.js (Express / NestJS), TypeScript |
-| **Database** | MongoDB / PostgreSQL |
-| **Message queue** | RabbitMQ / Kafka |
-| **API Gateway** | Nginx / Express Gateway |
-| **Authentication** | JWT, OAuth2 |
-| **Realtime** | Socket.IO / WebSocket |
+| **Backend services** | Node.js (NestJS), TypeScript |
+| **Database** | PostgreSQL |
+| **Message queue** | RabbitMQ / BullMQ |
+| **API Gateway** | Express Gateway |
+| **Authentication** | JWT |
+| **Realtime** | WebSocket |
 | **Containerization** | Docker, Docker Compose |
-| **Deployment** | AWS / DigitalOcean / Render |
+| **Deployment** | Vercel / Railway / Render |
 
 ---
 
@@ -45,7 +45,7 @@ Dự án được thiết kế theo mô hình **Microservice Architecture**, chi
 | 🧑‍💼 User Service | [user-service](https://github.com/username/social-app-user-service) |
 | 💬 Chat Service | [chat-service](https://github.com/username/social-app-chat-service) |
 | 📝 Comment Service | [comment-service](https://github.com/username/social-app-comment-service) |
-| ❤️ Engagement Service | [engagement](https://github.com/username/social-app-like-service) |
+| ❤️ Like Service | [like-service](https://github.com/username/social-app-like-service) |
 | 📢 Notification Service | [notif-service](https://github.com/username/social-app-notif-service) |
 | 📚 Story Service | [story-service](https://github.com/username/social-app-story-service) |
 | ⚙️ Worker Service | [worker-service](https://github.com/username/social-app-worker-service) |
