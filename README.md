@@ -41,7 +41,7 @@ Dự án được thiết kế theo mô hình **Microservice Architecture**, chi
 | Service | Repo link |
 |----------|------------|
 | 🌐 Frontend | [frontend](https://github.com/username/social-app-frontend) |
-| 🧩 Backend Shared | [backend](https://github.com/username/social-app-backend) |
+| 🧩 API Gateway | [api-gateway](https://github.com/username/social-app-api-gateway) |
 | 🧑‍💼 User Service | [user-service](https://github.com/username/social-app-user-service) |
 | 💬 Chat Service | [chat-service](https://github.com/username/social-app-chat-service) |
 | 📝 Comment Service | [comment-service](https://github.com/username/social-app-comment-service) |
@@ -49,7 +49,7 @@ Dự án được thiết kế theo mô hình **Microservice Architecture**, chi
 | 📢 Notification Service | [notif-service](https://github.com/username/social-app-notif-service) |
 | 📚 Story Service | [story-service](https://github.com/username/social-app-story-service) |
 | ⚙️ Worker Service | [worker-service](https://github.com/username/social-app-worker-service) |
-| 🚪 Gateway | [gateway](https://github.com/username/social-app-gateway) |
+| 🚪 WS Gateway | [ws-gateway](https://github.com/username/social-app-ws-gateway) |
 
 ---
 
