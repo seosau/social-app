@@ -16,7 +16,7 @@ Dự án được thiết kế theo mô hình **Microservice Architecture**, chi
 | **Frontend** | React, Next.js, Tailwind CSS |
 | **Backend services** | Node.js (NestJS), TypeScript |
 | **Database** | PostgreSQL |
-| **Message queue** | RabbitMQ / BullMQ |
+| **Message queue** | BullMQ |
 | **API Gateway** | Express Gateway |
 | **Authentication** | JWT |
 | **Realtime** | WebSocket |
@@ -40,16 +40,16 @@ Dự án được thiết kế theo mô hình **Microservice Architecture**, chi
 
 | Service | Repo link |
 |----------|------------|
-| 🌐 Frontend | [frontend](https://github.com/username/social-app-frontend) |
-| 🧩 API Gateway | [api-gateway](https://github.com/username/social-app-api-gateway) |
-| 🧑‍💼 User Service | [user-service](https://github.com/username/social-app-user-service) |
-| 💬 Chat Service | [chat-service](https://github.com/username/social-app-chat-service) |
-| 📝 Comment Service | [comment-service](https://github.com/username/social-app-comment-service) |
-| ❤️ Like Service | [like-service](https://github.com/username/social-app-like-service) |
-| 📢 Notification Service | [notif-service](https://github.com/username/social-app-notif-service) |
-| 📚 Story Service | [story-service](https://github.com/username/social-app-story-service) |
-| ⚙️ Worker Service | [worker-service](https://github.com/username/social-app-worker-service) |
-| 🚪 WS Gateway | [ws-gateway](https://github.com/username/social-app-ws-gateway) |
+| 🌐 Frontend | [frontend](https://github.com/seosau/social-app-frontend) |
+| 🧩 API Gateway | [api-gateway](https://github.com/seosau/social-app-api-gateway) |
+| 🧑‍💼 User Service | [user-service](https://github.com/seosau/social-app-user-service) |
+| 💬 Chat Service | [chat-service](https://github.com/seosau/social-app-chat-service) |
+| 📝 Comment Service | [comment-service](https://github.com/seosau/social-app-comment-service) |
+| ❤️ Like Service | [like-service](https://github.com/seosau/social-app-like-service) |
+| 📢 Notification Service | [notif-service](https://github.com/seosau/social-app-notif-service) |
+| 📚 Story Service | [story-service](https://github.com/seosau/social-app-story-service) |
+| ⚙️ Worker Service | [worker-service](https://github.com/seosau/social-app-worker-service) |
+| 🚪 WS Gateway | [ws-gateway](https://github.com/seosau/social-app-ws-gateway) |
 
 ---
 
